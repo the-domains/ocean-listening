@@ -1,0 +1,28 @@
+name: Ocean Listening
+favicon: null
+layout_spectrum: 0.66087263263762
+typography_spectrum: 0.05205461010336876
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.2524396157823503
+  lightness: 0.5975083718076348
+  saturation: 0.2547936502378434
+  rhythmicContrast: 0.9672975330613554
+purpose: []
